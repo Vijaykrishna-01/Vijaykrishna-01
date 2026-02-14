@@ -65,15 +65,11 @@ Currently focused on freelance product development and meaningful open source co
 
 ## Featured Projects
 
-> Pin your best repositories in GitHub → “Customize your pins”
 
-Here’s how it will appear:
+Here are some of my key repositories:
 
-- Project One – Production SaaS platform
-- Project Two – Open source UI component library
-- Project Three – API-first backend service
+- [**Udemy Clone**](https://github.com/vijayKrishna96/learn-lab-f-v2) ![GitHub stars](https://img.shields.io/github/stars/vijayKrishna96/learn-lab-f-v2?style=flat-square) – Production SaaS platform
 
-(Replace these with your real repos once pinned.)
 
 ---
 
