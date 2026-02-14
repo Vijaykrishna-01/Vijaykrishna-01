@@ -80,7 +80,7 @@ Here’s how it will appear:
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VijayKrishna&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayKrishna96&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -88,19 +88,19 @@ Here’s how it will appear:
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayKrishna&show_icons=true&hide_border=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayKrishna&layout=compact&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayKrishna96&show_icons=true&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayKrishna96&layout=compact&hide_border=true" height="150" />
 </p>
+
 
 ---
 
 ## Portfolio
 
-Coming Soon  
-(You can replace this with your deployed portfolio link.)
+Check out my live portfolio showcasing projects and work:
 
-Example:
-[Portfolio Website](https://yourdomain.com)
+[Portfolio Website](https://my-portfolio-ten-rho-a5zdhmdtgr.vercel.app/)
+
 
 ---
 
