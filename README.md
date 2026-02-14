@@ -41,28 +41,6 @@ Currently focused on freelance product development and meaningful open source co
 
 ---
 
-## Selected Work & Focus
-
-### Product Engineering
-- SaaS platforms built with Next.js & TypeScript
-- Scalable REST APIs and service architecture
-- Authentication & authorization systems
-- Database schema design & optimization
-
-### Frontend Systems
-- Component-driven UI architecture
-- Design system integration (MUI / shadcn)
-- Performance optimization & code splitting
-- SSR / ISR using Next.js
-
-### Backend Engineering
-- Clean controller-service architecture
-- API versioning strategies
-- Containerized deployments using Docker
-- Production-ready logging & error handling
-
----
-
 ## Featured Projects
 
 
