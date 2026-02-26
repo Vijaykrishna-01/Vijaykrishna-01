@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vijayKrishna96/assets/main/banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Vijaykrishna-01/assets/main/banner.svg" width="100%" />
 </p>
 
 </p>
@@ -46,7 +46,7 @@ Currently focused on freelance product development and meaningful open source co
 
 Here are some of my key repositories:
 
-- [**Udemy Clone**](https://github.com/vijayKrishna96/learn-lab-f-v2) ![GitHub stars](https://img.shields.io/github/stars/vijayKrishna96/learn-lab-f-v2?style=flat-square) – Production SaaS platform
+- [**Udemy Clone**](https://github.com/Vijaykrishna-01/learn-lab-f-v2) ![GitHub stars](https://img.shields.io/github/stars/Vijaykrishna-01/learn-lab-f-v2?style=flat-square) – Production SaaS platform
 
 
 ---
@@ -62,8 +62,8 @@ Here are some of my key repositories:
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayKrishna96&show_icons=true&hide_border=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayKrishna96&layout=compact&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijaykrishna-01&show_icons=true&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykrishna-01&layout=compact&hide_border=true" height="150" />
 </p>
 
 
