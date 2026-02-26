@@ -54,7 +54,7 @@ Here are some of my key repositories:
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayKrishna96&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaykrishna-01&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ---
